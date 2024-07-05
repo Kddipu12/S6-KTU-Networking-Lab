@@ -11,6 +11,6 @@
  - [UDP](UDP)
  - [Simple Mail Transfer Protocol](SMTP/)
  - [Distance Vector Routing Protocol](Distance-Vector-Routing/)
- - [SLIDING WINDOW PROTOCOL](SLIDINGWINDOWPROTOCOLS/)
+ - [SLIDING WINDOW PROTOCOLS](SLIDING%20WINDOW%20PROTOCOLS/)
 
 
