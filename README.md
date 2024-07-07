@@ -13,6 +13,6 @@
  - [Simple Mail Transfer Protocol](SMTP/)
  - [Distance Vector Routing Protocol](Distance-Vector-Routing/)
  - [SLIDING WINDOW PROTOCOLS](SLIDING%20WINDOW%20PROTOCOLS/)
- - -[Stop & Wait ARQ](SLIDING%20WINDOW%20PROTOCOLS/STOP%26%20WAIT%20ARQ/)
+ - - [Stop & Wait ARQ](SLIDING%20WINDOW%20PROTOCOLS/STOP%26%20WAIT%20ARQ/)
 
 
