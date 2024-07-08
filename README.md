@@ -12,7 +12,7 @@
  - - [Time server application using UDP](Application%20type/UDPtimeserver) 
  - [Simple Mail Transfer Protocol](SMTP/)
  - [File Transfer Protocol](FTP/)
- - [Distance Vector Routing Protocol](Distance-Vector-Routing/)
+ - [Distance Vector Routing Protocol](DVR/)
  - [SLIDING WINDOW PROTOCOLS](SLIDING%20WINDOW%20PROTOCOLS/)
  - - [Stop & Wait ARQ](SLIDING%20WINDOW%20PROTOCOLS/STOP%26%20WAIT%20ARQ/)
 
