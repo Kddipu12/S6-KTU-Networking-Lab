@@ -1,6 +1,6 @@
-To write an algorithm for a 30-mark question based on the given C program, you need to provide a detailed, step-by-step explanation of how the program works. Here's a comprehensive algorithm for the multi-node routing table calculation program:
 
-### Algorithm
+
+### Algorithm(Distance Vector Routing)
 
 #### 1. **Initialize and Read Matrix:**
    - **Step 1:** Initialize variables:
